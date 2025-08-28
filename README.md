@@ -15,8 +15,6 @@ This is my school GitHub account — I’ve been programming for **8 years**, an
 
 ### Achievements
 
-* 🥇 **Gold Medalist at Skills Alberta** — 3x Winner
-* 🥇 **Gold – Skills Canada 2025** (Web Technologies)
-  🥈 Silver – 2024 | 🥉 Bronze – 2023
-* 🥇 **First Place Overall** at **CalgaryHacks** in 2024
-* 🍁 Representing **Team Canada** at **WorldSkills 2025** in Shanghai for Web Technologies
+* **First Place Overall** at **CalgaryHacks** in 2024
+* **Gold Medalist at Skills Alberta** 3x Winner, **Skills Canada 2025** (Web Technologies)
+* Representing **Team Canada** at **WorldSkills 2025** in Shanghai for Web Technologies
