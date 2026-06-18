@@ -1,6 +1,6 @@
 ## Hello, I'm Cooper!
 
-I’ve been programming for almost **9 years**, and I'm a first year cs student at the [University of Waterloo](https://uwaterloo.ca). I'm interested in AI Safety Research (thanks in great part to Robert Miles), math puzzles (check out Daniel Litt), as well as chess, soccer, and hockey!
+I’ve been programming for almost **9 years**, and I'm a second-year cs student at the [University of Waterloo](https://uwaterloo.ca). I'm interested in AI Safety Research (thanks in great part to Robert Miles), math puzzles (check out Daniel Litt), as well as chess, soccer, and hockey!
 
 #### Projects I'm proud of:
 * [Centichess](https://centichess.org), a chess game review service that uses stockfish web workers to analyze and classify your chess games.
